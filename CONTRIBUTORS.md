@@ -65,6 +65,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Idan B](https://github.com/idanbe)
 
+- [iaroslaos](https://github.com/iaroslaos23)
+
 - [Deima Nongkseh] (https://github.com/deima96)
 
 - [Adam Perez] (https://github.com/APxISO)
